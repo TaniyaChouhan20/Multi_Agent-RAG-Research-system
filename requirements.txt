@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+openai
+faiss-cpu
+tiktoken
+python-dotenv
+pydantic
+fastapi
+uvicorn
+requests
+beautifulsoup4
+sentence-transformers
+huggingface-hub
